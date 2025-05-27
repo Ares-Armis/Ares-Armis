@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Bana Nasıl Ulaşırsın](https://discord.com/users/1105504076919226410)
 
 <h2>Ben Kimim</h2>
 
