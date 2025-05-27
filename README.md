@@ -1,16 +1,21 @@
 ## Hi there 👋
+[![Bana Nasıl Ulaşırsın](https://discord.com/users/1105504076919226410)
 
-<!--
-**Ares-Armis/Ares-Armis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ben Kimim</h2>
 
-Here are some ideas to get you started:
+```js
+class Ares {
+    constructor(options) {
+        this.name = "Ares",
+        this.sex = "Man",
+        this.length = "189",
+        this.type = "human",
+        this.job = "Sadece Yazılım",
+        this.weight = "92",
+        this.age = "21",
+        this.discord.tag = "onlyaress."
+    };
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+module.exports = Ares
+```
