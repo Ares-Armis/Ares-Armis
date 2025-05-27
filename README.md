@@ -18,7 +18,7 @@ class Ares {
 
 module.exports = Ares
 ```
-## Languages and Technologies I Know:
+## Hangi Dilleri  Biliorum:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
